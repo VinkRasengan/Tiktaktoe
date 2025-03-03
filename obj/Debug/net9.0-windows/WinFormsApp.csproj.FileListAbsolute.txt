@@ -1,0 +1,16 @@
+e:\New Project\WinFormsApp\bin\Debug\net9.0-windows\WinFormsApp.exe
+e:\New Project\WinFormsApp\bin\Debug\net9.0-windows\WinFormsApp.deps.json
+e:\New Project\WinFormsApp\bin\Debug\net9.0-windows\WinFormsApp.runtimeconfig.json
+e:\New Project\WinFormsApp\bin\Debug\net9.0-windows\WinFormsApp.dll
+e:\New Project\WinFormsApp\bin\Debug\net9.0-windows\WinFormsApp.pdb
+e:\New Project\WinFormsApp\obj\Debug\net9.0-windows\TicTacToe.Form1.resources
+e:\New Project\WinFormsApp\obj\Debug\net9.0-windows\WinFormsApp.csproj.GenerateResource.cache
+e:\New Project\WinFormsApp\obj\Debug\net9.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+e:\New Project\WinFormsApp\obj\Debug\net9.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+e:\New Project\WinFormsApp\obj\Debug\net9.0-windows\WinFormsApp.AssemblyInfo.cs
+e:\New Project\WinFormsApp\obj\Debug\net9.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+e:\New Project\WinFormsApp\obj\Debug\net9.0-windows\WinFormsApp.dll
+e:\New Project\WinFormsApp\obj\Debug\net9.0-windows\refint\WinFormsApp.dll
+e:\New Project\WinFormsApp\obj\Debug\net9.0-windows\WinFormsApp.pdb
+e:\New Project\WinFormsApp\obj\Debug\net9.0-windows\WinFormsApp.genruntimeconfig.cache
+e:\New Project\WinFormsApp\obj\Debug\net9.0-windows\ref\WinFormsApp.dll
