@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\New Project\\Tiktaktoe\\WinFormsApp.csproj": {}
+    "e:\\New Project\\Tiktaktoe\\WinFormsApp.csproj": {}
   },
   "projects": {
-    "E:\\New Project\\Tiktaktoe\\WinFormsApp.csproj": {
+    "e:\\New Project\\Tiktaktoe\\WinFormsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\New Project\\Tiktaktoe\\WinFormsApp.csproj",
+        "projectUniqueName": "e:\\New Project\\Tiktaktoe\\WinFormsApp.csproj",
         "projectName": "WinFormsApp",
-        "projectPath": "E:\\New Project\\Tiktaktoe\\WinFormsApp.csproj",
+        "projectPath": "e:\\New Project\\Tiktaktoe\\WinFormsApp.csproj",
         "packagesPath": "C:\\Users\\ndvin\\.nuget\\packages\\",
-        "outputPath": "E:\\New Project\\Tiktaktoe\\obj\\",
+        "outputPath": "e:\\New Project\\Tiktaktoe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
